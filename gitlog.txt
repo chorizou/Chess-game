@@ -1,0 +1,667 @@
+commit e2ee43884a96c3750aa78fcee4fe7dc55d62413e
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri May 3 15:28:19 2019 -0400
+
+    finalized version
+
+commit 1d61048ba02301d5e8719fd1484a57431179c1ad
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri May 3 14:55:20 2019 -0400
+
+    yeet
+
+commit fd24241d484c00b8b90aa5c61a12228678b476d3
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri May 3 14:50:33 2019 -0400
+
+    forgot an enter
+
+commit 2c51c37d3a957f8aed3e8fe3e68ebc4ad500ae61
+Merge: d107fb0 a943540
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri May 3 14:46:02 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+    
+    merge
+
+commit d107fb053d2e07a8bc363ab8c36f70f7367faf14
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri May 3 14:45:48 2019 -0400
+
+    Fixed some dumbass mistake
+
+commit a943540e1528ed8661da692bed77f5788ef5c94a
+Merge: 8a61c28 a04db11
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Fri May 3 14:41:41 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+
+commit 8a61c286ac795bfcdd0873544f86844fdfbcf43b
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Fri May 3 14:41:13 2019 -0400
+
+    finished README, needs specification of clever design
+
+commit a04db112d2b954ba98029c244badbcc2eaddef94
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri May 3 14:34:34 2019 -0400
+
+    Fixed piece promotion -- unecessarily long
+
+commit 29339fcb154907fc11ff4d4f9af37fe9930c1bad
+Merge: 89276bd 60853b4
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri May 3 14:29:51 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+    
+    HAHA
+
+commit 89276bd4d139b60cda19efdcd1b6d66881809a22
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri May 3 14:29:25 2019 -0400
+
+    testing
+
+commit 60853b49ba7cc3d1b0f1ea44afa99e0723381a65
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Fri May 3 14:29:22 2019 -0400
+
+    removed unnecessary code
+
+commit 4c2b34488de350b069ac087515dd241c428b37a2
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri May 3 14:07:53 2019 -0400
+
+    blah
+
+commit 0798a3c8110bbf9d313e3b9ef07f4453d2bdbc33
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri May 3 14:06:13 2019 -0400
+
+    colors?
+
+commit 85949e51fe90338947640810df8c8038cad9c6bf
+Merge: bfbc049 ec30bb7
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Fri May 3 13:46:41 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+
+commit bfbc049e51ffb00eac953c98d583ea2de9462c49
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Fri May 3 13:46:19 2019 -0400
+
+    labels for rows and columns in display
+
+commit ec30bb71934e1bc850c2885dbdd3a495d3becefd
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Fri May 3 03:05:56 2019 -0400
+
+    working on README
+
+commit efe45bf9647b0b031c4ec2efd36bfe3948ca566d
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Thu May 2 20:05:32 2019 -0400
+
+    finished display
+
+commit 1cfaf9ee37f49cbff316835ec440cfdbf4fd45e4
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Thu May 2 18:12:48 2019 -0400
+
+    checked colors first version
+
+commit 5a10ca55c4b3cd176d083eb59156ac2b377f7c64
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Thu May 2 14:45:21 2019 -0400
+
+    setting pieces to different colors works
+
+commit da288495cfbdd4da0714cd4c87ad9f603ba97428
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu May 2 01:12:08 2019 -0400
+
+    finalized version
+
+commit 1a6d83a675222e00196de382875534e26899bd21
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Thu May 2 01:11:50 2019 -0400
+
+    formatting
+
+commit d37fe3869502ad004be26aa783d20b54a196f6e6
+Merge: c3db9ad ce2a3b0
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 23:46:58 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+    
+    combining
+
+commit c3db9ad351877d23bb28cea245bbc6010e340b9c
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 23:46:49 2019 -0400
+
+    Modified board
+
+commit c8b0218b109e066bf153947cd6f3cf12d7bfb1db
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 23:46:16 2019 -0400
+
+    FIXED ALL MEMORY LEAKS
+
+commit ce2a3b059c84e1d23e8f0d4a729f0f27377757aa
+Merge: e7b7694 b716ba3
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Wed May 1 23:19:37 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+
+commit e7b76943c69af2b571d6c02b3c2f2ccbe7547f38
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Wed May 1 23:18:35 2019 -0400
+
+    working on display
+
+commit b716ba3fe465c806f010999dc91eb00bbbfe89e7
+Merge: 575fbfb 2441ae3
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 22:49:51 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+    
+    Worked on different things
+
+commit 575fbfb56705e73c79fae9fd4d4074f06f53f654
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 22:49:39 2019 -0400
+
+    close to finalized version
+
+commit 2441ae321137f510c8fc1a2189a8d3d89c7c57c8
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Wed May 1 22:40:39 2019 -0400
+
+    added mystery to makefile
+
+commit d0c71767611e5829a93de27ae9e221f532e0d84f
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 22:28:59 2019 -0400
+
+    oops
+
+commit 18c96e78daf0925b75d3959fbf15331882814bd4
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 22:26:19 2019 -0400
+
+    Working chess
+
+commit da84ddd32d6a9f17275a9bfe94b4a930125c180e
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 18:02:20 2019 -0400
+
+    basically done woohoo
+
+commit 1e8ac1326553c9601669cf98c0e66e3673b668d6
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 17:54:17 2019 -0400
+
+    HA NOW EVERYTHING WORKS
+
+commit 4c81c83698107c3ae4c0d2fe61274d0c9dc6ae4a
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 17:46:09 2019 -0400
+
+    added piece_promotion method
+
+commit aa783c137092f062181007cae25ecec89c8014bd
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 17:27:24 2019 -0400
+
+    Aaah pos_moves works now
+
+commit f3374679fd720e476743c3664b6a81d446d7dfce
+Merge: 7390298 5bdb916
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 16:56:23 2019 -0400
+
+    fixed
+
+commit 739029888c01edf9b8686aae99c628b6fb75391c
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed May 1 16:55:12 2019 -0400
+
+    working on it...
+
+commit 5bdb916cad433d629d64d64dfdcedd6904592e3c
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Wed May 1 14:16:33 2019 -0400
+
+    fixed bishop obstruction method
+
+commit cbf0d7bc02a980780d19cba553726e8c705a3a77
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Tue Apr 30 20:40:06 2019 -0400
+
+    minor error in obs_p
+
+commit 00f90ebc57c8e0a62b462c94ac8f09a165d1b095
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Tue Apr 30 16:32:04 2019 -0400
+
+    fixed errors in make_move
+
+commit a2aa874c4895c8ef781160ff3aa6e961bfdbb620
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Tue Apr 30 16:31:48 2019 -0400
+
+    Fixed board
+
+commit d52f17cbe082a4bd09d3f355bcddcf32daf30e0a
+Merge: 47138d8 b1f785c
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Mon Apr 29 23:39:36 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+
+commit 47138d8359c115769c77e066b6ad12c9efbaa62f
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Mon Apr 29 23:38:52 2019 -0400
+
+    added obstruction method for mystery piece
+
+commit b1f785c046ad16d68e393f9b21de99ca3ee9962f
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 23:30:54 2019 -0400
+
+    make_move almost finished
+
+commit c3f865b299c9b5bfdf42c3a8f9b9d55e6fbe8b4b
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 23:01:30 2019 -0400
+
+    got rid of comment lines
+
+commit 9e819ca3f7b32073fdbb6a52bd848d3d7ebac6e6
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 22:59:58 2019 -0400
+
+    small errors
+
+commit 7bede4ea1610dba401ddc1b35ebee613e2af5e5c
+Merge: 2e117ee c696a88
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 22:59:38 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+
+commit 2e117eea77d7cb9930908e028f20ab9474aa2ad8
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 22:59:28 2019 -0400
+
+    Board obstructions work!
+
+commit c696a888578474dae139567adeb86ca043a8ed82
+Merge: af2c026 74f6b52
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Mon Apr 29 22:59:06 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+
+commit af2c02644abff1111e0a9e0a00d2b48478d5b1cb
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Mon Apr 29 22:58:52 2019 -0400
+
+    fixed Queen diagonal movement
+
+commit 74f6b52d301f91f4b3ebcd393ad5f4235aca4295
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Mon Apr 29 22:28:47 2019 -0400
+
+    edits to rook
+
+commit 56d8964d35209568b600e3332e0dedb4964b4ce4
+Merge: f026dc0 b9fd67a
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 22:28:18 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+
+commit f026dc0717a5863b038f68af27c6558a16e4a8e6
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 22:28:07 2019 -0400
+
+    testing
+
+commit b9fd67ae85bd40a4200acc1fef72543286f28317
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Mon Apr 29 22:23:35 2019 -0400
+
+    cast values in rook as ints
+
+commit f4112d40fbdf7d45c764a8532a79f0b36edf6e19
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 21:50:26 2019 -0400
+
+    edits
+
+commit cc94e2c93ad7ad62277e88aa8611dd2e7f45991f
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 21:35:38 2019 -0400
+
+    fixed player's turns
+
+commit 3cd81aea3b85f002ed493c03bd84b5e277e45269
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 21:24:22 2019 -0400
+
+    Haha board worksgit add Chess.cpp
+
+commit 47e00f0003914ea923ae967897f5c7701a0b9493
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Mon Apr 29 21:17:06 2019 -0400
+
+    make_move condition modification
+
+commit 06ca0b003593fd093ace3f40bc7cf1ddd858712f
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 21:15:09 2019 -0400
+
+    Fixed something very stupid
+
+commit d8a60b439be5c396302187f2a3362e18e89824dd
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Mon Apr 29 19:54:04 2019 -0400
+
+    fixed issue in on_board, display workinggit add Board.cpp Makefile!
+
+commit 973c4c0cec2cd2579e643cea1bdc843a13c147d9
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Mon Apr 29 18:34:48 2019 -0400
+
+    king move test commands + fixed minor error in King.cpp
+
+commit e3eb7ae23a40b042f52e30a251b1ea2f4c255651
+Merge: 6873438 020db1b
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 16:24:04 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+    
+    ah issues
+
+commit 68734383390d3a024e853a3e5e05fb09f3c93f48
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 16:23:48 2019 -0400
+
+    Finished istream operator
+
+commit b76062d31952534559367994dbdf8ac4848100a0
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 16:23:30 2019 -0400
+
+    Modified methods in board
+
+commit 020db1b51948e44298a590dbc0529300a04d51aa
+Merge: 8c53c70 68084b2
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Mon Apr 29 14:51:13 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+
+commit 8c53c70056cb3ba07da00e2a53a1aeb3005cde63
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Mon Apr 29 14:50:36 2019 -0400
+
+    test files for moving pieces
+
+commit 68084b2d7380522ab06d6c1214c4c8d57884ec44
+Merge: e2fa3c9 582f204
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 13:58:19 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+    
+    Multiple edits
+
+commit e2fa3c9cb60801e0e94206951715fbf474c55c00
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 29 13:58:13 2019 -0400
+
+    added helper method in Board
+
+commit 582f204cfbf65edf8cb282b83a0d13d97de25c9e
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Mon Apr 29 13:54:44 2019 -0400
+
+    changed pointer in set_board
+
+commit ad3a0e8969cafb51148d5aced3b92e77d465ed34
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sun Apr 28 16:39:32 2019 -0400
+
+    Now everything compiles!
+
+commit 75872079807dfe493d8613f9c59442bd390efbb6
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sun Apr 28 16:18:09 2019 -0400
+
+    Added obstruction method
+
+commit 2e25c6f8185f5ab7ef1f554dc1c78376be9a6291
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sun Apr 28 16:17:47 2019 -0400
+
+    Moved methods from chess to board
+
+commit 3616de5d1f9ca4593a3c06938a821a8f0fac8d7d
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Sun Apr 28 13:32:33 2019 -0400
+
+    >> operator
+
+commit b67125a53769e3af53ff138a803e6ad4abaa4187
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Sun Apr 28 13:32:10 2019 -0400
+
+    set_board helper function for >>
+
+commit 5b6975a4679ec5381321f442a47a14bb63064fe9
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Sun Apr 28 04:21:18 2019 -0400
+
+    added obstruction rough code
+
+commit eceaeb7bacd4e5545fca892da53e0f40220b24c7
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sun Apr 28 03:09:16 2019 -0400
+
+    Finished another method for chess
+
+commit fbe6b63977fad259c2d98b005adefa86a107e10e
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sun Apr 28 00:48:55 2019 -0400
+
+    Added helper function in Board
+
+commit 8404d3ce1618fd9aad26cc18493f1ec0f52b6be0
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sat Apr 27 17:30:30 2019 -0400
+
+    small changes
+
+commit 6771e6f9e2ffd897fa27979c0ddbd05442669cd5
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sat Apr 27 17:30:05 2019 -0400
+
+    Modified add_piece method
+
+commit 8fe8fbfa84195b9a2dbbc1ddc056432f2a7bc66a
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sat Apr 27 17:08:14 2019 -0400
+
+    Make move method in Chess
+
+commit 62ef2622838e60d3bbccf43095d227a09b4f14f9
+Merge: c4742f0 c318622
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sat Apr 27 16:51:11 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+
+commit c4742f00bf13e185788b385f87f02210b6c0d7c3
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sat Apr 27 16:41:05 2019 -0400
+
+    updated some functionalities of Board
+
+commit c3186226ec68e52d2ec46a5e57a4cd03a6a47c38
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Sat Apr 27 16:33:39 2019 -0400
+
+    got rid of c methods
+
+commit 42e8a85cd52126190d9cfc0e99fe0a52c477660f
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sat Apr 27 15:46:13 2019 -0400
+
+    Added header
+
+commit 32837c4f403f85c44fe8ca0a19574283fa49b759
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Sat Apr 27 15:37:29 2019 -0400
+
+    Finished 1st version of Board
+
+commit 4ed9e4c24402cc47f45ed8cf1e3057996c91f630
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri Apr 26 14:47:29 2019 -0400
+
+    Implemented most functions in Board.cpp
+
+commit 597c915bb80539ad2a03d3c00b32585d1c153112
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri Apr 26 14:06:27 2019 -0400
+
+    shortened code for Rook
+
+commit e1996d235a842497da25d4e53b6ba2efcec0865d
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri Apr 26 14:01:14 2019 -0400
+
+    Made King.cpp even shorter
+
+commit 48bf27af142ac065cb1ccd6bb7438df763417db9
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri Apr 26 13:57:37 2019 -0400
+
+    Modified format of King.h
+
+commit 7a48df2273a5b888fb0047d6c16630cbf5be85af
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Fri Apr 26 13:56:09 2019 -0400
+
+    Modified King.cpp to make it more concise
+
+commit c196fb3bf99c48ccecc4ee431218041ebe9346f5
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Fri Apr 26 11:21:36 2019 -0400
+
+    King.cpp and Rook.cpp compile
+
+commit 9e9180f363ae75564f9fb286bc6d0ea26c85fc54
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Wed Apr 24 16:13:07 2019 -0400
+
+    added comments to Queen and Knight
+
+commit 8e4e75ebfd39a6b2aa33a5367dcaad3589fbdb3b
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Wed Apr 24 16:02:05 2019 -0400
+
+    Queen files + check for same position in bishop
+
+commit 94a7e3bf19fdf8b2d82a11a935ac4f8448348a9d
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Apr 24 15:42:10 2019 -0400
+
+    Modified Bishop.cpp
+
+commit b1cc345c6795e732aa9430c7b19e98eea97da48c
+Merge: 74ce1bd b320a2c
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Apr 24 15:40:15 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+    
+    Modified pawn files
+
+commit 74ce1bddc54a08785af7caf1abcab4d28ee8374b
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Apr 24 15:40:02 2019 -0400
+
+    Modified pawn files -- now compiles
+
+commit b320a2c357902f77444390d8d82c5374f15efb00
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Wed Apr 24 15:16:31 2019 -0400
+
+    Knight files + minor edits to Bishop
+
+commit b8409efae8c6bb92fbc1790d7c37671b4fa5ff96
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Apr 24 15:14:45 2019 -0400
+
+    Edited Bishop.h
+
+commit bc3ebddf943494c83bc0cb0936584e8a1e21437f
+Merge: 522b2d6 ef5ccdf
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Apr 24 15:10:41 2019 -0400
+
+    Merge branch 'master' of https://bitbucket.org/rebeccamuratore/finalproject
+
+commit 522b2d6a2ed90c8c62dc83ffe71fcecc7684c10d
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Apr 24 15:10:28 2019 -0400
+
+    Pawn files
+
+commit ef5ccdf348ae95e5d80fc62713ff89279011f571
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Wed Apr 24 14:34:05 2019 -0400
+
+    corrected typos
+
+commit 0f71540d39df0fb31f9e8880d42d9d1e60ea4f6a
+Author: Rebecca Muratore <rmurato2@jhu.edu>
+Date:   Wed Apr 24 14:33:21 2019 -0400
+
+    King and Rook legal_move_shape
+
+commit 8c6f1e3d81a8e72d7b1b53934913921e7b525c70
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Wed Apr 24 14:29:22 2019 -0400
+
+    Bishop!
+
+commit 4a22e99773ad11d0c46b902baaf8def51499feed
+Author: Charissa Zou <czou9@jhu.edu>
+Date:   Mon Apr 22 22:30:34 2019 -0400
+
+    README temp
+
+commit b189dbf3f4bc5030471b96c35cff5fd5716b243f
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Mon Apr 22 22:28:04 2019 -0400
+
+    rudimentary Makefile
+
+commit 988111b143659b0ac6fff00388067eb7c9e21b40
+Author: Anna Hu <ahu13@jhu.edu>
+Date:   Mon Apr 22 21:24:09 2019 -0400
+
+    starter files
